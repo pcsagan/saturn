@@ -75,7 +75,7 @@ The frontend listens on port 80 because of the `--port 80` argument on the dev s
 }
 ```
 
-The backend listens on port 1112 because of the `FLASK_RUN_PORT` environment variable in `.flaskenv`
+The backend listens on port 1122 because of the `FLASK_RUN_PORT` environment variable in `.flaskenv`
 
 ```ini
 FLASK_RUN_PORT=1122
