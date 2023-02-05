@@ -15,7 +15,7 @@
     * [Pytest-Coverage](https://github.com/pytest-dev/pytest-cov)
     * [Mypy](https://github.com/python/mypy)
     * [Flake8](https://github.com/PyCQA/flake8)
-  * Separate requirements.txt (production) requirements_dev.txt (development/testing) dependencies
+  * Separate requirements.txt (production) and requirements_dev.txt (development/testing) dependencies
 
 ## Usage
 Start the frontend by launching `node` in a terminal
