@@ -22,6 +22,13 @@
   * Separate requirements.txt (production) and requirements_dev.txt (development/testing) dependencies
 
 ## Usage
+To populate the database with test data run the following command after installation
+
+```
+flask --debug remake
+```
+
+
 Start the frontend by launching `node` in a terminal
 
 ```
