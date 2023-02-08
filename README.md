@@ -22,6 +22,24 @@
   * Separate requirements.txt (production) and requirements_dev.txt (development/testing) dependencies
 
 ## Usage
+First create a `.flaskenv` file to setup the environment variables
+
+```ini
+FLASK_APP="application:create_app()"
+SECRET_KEY="SECRET"
+JWT_SECRET_KEY="SECRET"
+
+# These are available as default parameters for the 'flask run' command
+FLASK_RUN_HOST="0.0.0.0"
+FLASK_RUN_PORT=1122
+FLASK_RUN_RELOAD=False
+FLASK_RUN_DEBUGGER=False
+
+# Breakpoints not hit when run from embeddable Python
+# https://github.com/microsoft/debugpy/issues/890
+PYDEVD_DISABLE_FILE_VALIDATION=1
+```
+
 To populate the database with test data run the following command in the backend directory after installation
 
 ```
