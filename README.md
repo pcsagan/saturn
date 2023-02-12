@@ -1,9 +1,18 @@
 <div align="center">
 
-<img src="https://i.imgur.com/ZGk0J78.png" title="saturn">
+# Saturn
 
-[![Tests: Passing](https://img.shields.io/badge/Tests-Passing-forestgreen.svg)](https://github.com/pcsagan/tethys/blob/main/tox.ini)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/pcsagan/tethys/blob/main/LICENSE)
+[![Tests: Passing](https://img.shields.io/badge/Tests-Passing-forestgreen.svg)](https://github.com/pcsagan/saturn/blob/main/tox.ini)
+[![Code of conduct](https://img.shields.io/badge/Code%20of%20conduct-welcoming-blue)](https://github.com/pcsagan/saturn/blob/main/CODE_OF_CONDUCT.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/pcsagan/saturn/blob/main/LICENSE)
+
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://github.com/nodejs/node)
+[![Typescript](https://skillicons.dev/icons?i=ts)](https://github.com/microsoft/TypeScript)
+[![ReactJS](https://skillicons.dev/icons?i=react)](https://github.com/facebook/react)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://github.com/vercel/next.js)
+[![Material-UI](https://skillicons.dev/icons?i=materialui)](https://github.com/mui/material-ui)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://github.com/pallets/flask)
 
 </div>
 
